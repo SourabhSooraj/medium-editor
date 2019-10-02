@@ -727,3 +727,4 @@ Add your org [here](https://github.com/yabwe/medium-editor/issues/828) and we ca
 ## License
 
 MIT: https://github.com/yabwe/medium-editor/blob/master/LICENSE
+medium!
